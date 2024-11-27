@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/RedUmbrellaG/Desktop/New folder (6)/Echolocation/Content/FirstPersonArms/Animations/FP_Rifle_Run.uasset",
+				"C:/Users/RedUmbrellaG/Desktop/New folder (6)/Echolocation/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/RedUmbrellaG/Desktop/New folder (6)/Echolocation/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"C:/Users/RedUmbrellaG/Desktop/New folder (6)/Echolocation/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
+				"C:/Users/RedUmbrellaG/Desktop/New folder (6)/Echolocation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/4I/5L847XNZ9QPNKGNRNKRSJ1.uasset",
+				"C:/Users/RedUmbrellaG/Desktop/New folder (6)/Echolocation/Content/LevelPrototyping/Materials/Echo_Prototype_/BP_SoundGenerator.uasset",
+				"C:/Users/RedUmbrellaG/Desktop/New folder (6)/Echolocation/Content/LevelPrototyping/Materials/Echo_Prototype_/M_Post_Process_Add.uasset",
+				"C:/Users/RedUmbrellaG/Desktop/New folder (6)/Echolocation/Content/LevelPrototyping/Materials/Echo_Prototype_/M_RippleDecal.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/LevelPrototyping/Materials/Echo_Prototype_/M_Post_Active.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/LevelPrototyping/Materials/Echo_Prototype_/M_RippleDecal.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/GV/31SNC6WRIFO6TAFVDRCAXG.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/LevelPrototyping/Materials/Echo_Prototype_/M_MidnightBlack.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/LevelPrototyping/Materials/Echo_Prototype_/BP_Sound_Generation.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/LevelPrototyping/Materials/Echo_Prototype_/M_Post_Process_Add.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/GR/E9VJ983WCOYU2NCZXUBJM5.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/LevelPrototyping/Materials/Echo_Prototype_/BP_SoundGenerator.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/WM/WS8RU6Y6DRWDN1SNNOVR9L.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/4I/5L847XNZ9QPNKGNRNKRSJ1.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VO/VMN4G7K3NKKV6F8HTPHHDB.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/GO/I8WEFD3RY9V3NVQLSU6QM4.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/LevelPrototyping/Materials/Echo_Prototype_/M_Post_Permanent.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/LevelPrototyping/Materials/Echo_Prototype_/M_PostProcess_Add.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/LevelPrototyping/Materials/Echo_Prototype_/M_Post.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/LevelPrototyping/Materials/M_Black.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/LevelPrototyping/Materials/Prototype_Materials/M_Black.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/LevelPrototyping/Materials/Prototype_Materials/M_PostProcess_Add.uasset",
+				"D:/UWE Final Year All Module Works/Advanced Technologies/Teaching Block-1 Prototype/Echolocation/Content/LevelPrototyping/Materials/Echo_Prototype_/M_Black.uasset"
+			]
+		}
+	]
+}
